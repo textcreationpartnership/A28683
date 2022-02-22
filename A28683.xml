@@ -1,0 +1,4266 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Book containing the several rates for wharfage and cranage, to be taken and paid at the wharfs and keys of the new channel or cut of Bridewel-Dock and Fleet-Channel, from the River of Thames to Holborn-Bridge, set and appointed by the King's Majesty, with the advice of his Privy-Council and also for tolls and other profits arising by the navigation of the said channel or cut : set and appointed by the Lord Maior and Court of Aldermen ... in pursuance of an act of Parliament, entituled, An additional act for the rebuilding of the city of London, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 64 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28683</idno>
+            <idno type="STC">Wing B3610</idno>
+            <idno type="STC">ESTC R12670</idno>
+            <idno type="EEBO-CITATION">11694879</idno>
+            <idno type="OCLC">ocm 11694879</idno>
+            <idno type="VID">48228</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28683)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48228)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 15:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Book containing the several rates for wharfage and cranage, to be taken and paid at the wharfs and keys of the new channel or cut of Bridewel-Dock and Fleet-Channel, from the River of Thames to Holborn-Bridge, set and appointed by the King's Majesty, with the advice of his Privy-Council and also for tolls and other profits arising by the navigation of the said channel or cut : set and appointed by the Lord Maior and Court of Aldermen ... in pursuance of an act of Parliament, entituled, An additional act for the rebuilding of the city of London, &amp;c.</title>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Clark ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Columbia University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Docks --  England --  London.</term>
+               <term>Inland water transportation --  England --  London metropolitan area --  Transit charges.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48228:1" rendition="simple:additions"/>
+            <pb facs="tcp:48228:1" rendition="simple:additions"/>
+            <pb facs="tcp:48228:2"/>
+            <pb facs="tcp:48228:2"/>
+            <p>A Book containing the ſeveral RATES FOR Wharfage and Cranage, To be taken and paid at the <hi>Wharfs</hi> and <hi>Keys</hi> of the NEW CHANNEL or CUT of <hi>Bridewel-Dock</hi> and <hi>Fleet-Channel,</hi> from the River of <hi>Thames</hi> to <hi>Holborn-Bridge.</hi>
+            </p>
+            <p>Set and Appointed by the KING'S MAJESTY, with the Advice of his <hi>Privy-Council.</hi>
+            </p>
+            <p>AND ALSO For <hi>Tolls</hi> and other Profits ariſing by the Navigation of the ſaid <hi>Channel</hi> or <hi>Cut:</hi>
+            </p>
+            <p>Set and Appointed by the <hi>Lord Maior</hi> and <hi>Court of Aldermen:</hi> with the Approbation of all the <hi>Barons</hi> of the <hi>Exchequer:</hi>
+            </p>
+            <p>In purſuance of an Act of Parliament; entituled, <hi>An Ad<g ref="char:EOLhyphen"/>ditional Act for the Rebuilding of the City of</hi> London, <hi>&amp;c.</hi>
+            </p>
+            <figure>
+               <figDesc>blazon or coat of arms</figDesc>
+            </figure>
+            <p>Printed by <hi>Andrew Clark,</hi> Printer to the Honourable City of <hi>LONDON.</hi> 1676.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:48228:3"/>
+            <pb n="3" facs="tcp:48228:3" rendition="simple:additions"/>
+            <head>
+               <hi>The ſeveral Rates for</hi> Tolls, Wharfage, <hi>and</hi> Cranage, &amp;c.</head>
+            <p>
+               <table>
+                  <head>A</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label" cols="3">
+                        <hi>Tolls.</hi>
+                     </cell>
+                     <cell role="label" cols="3">
+                        <hi>Whar. Cra.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>q.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>q.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>ALlum the Bag</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Allum the Hundred</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Apples a Main</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Apples the Basket, two Buſhels</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Aſhes the Load</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Anniſeeds the Bag</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Anniſeeds the ſmall Bag</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Almonds the Bag</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Alderpoles the Load</cell>
+                     <cell>02</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Ammel the Bag</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Aſhen-Poles the Load</cell>
+                     <cell>02</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Ale the Ton</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Ale the Barrel</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>B</head>
+                  <row>
+                     <cell>Beer the Hogſhead</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Beer the Ton</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Beer the Barrel</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Beer the Kilderkin</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Beer the Butt</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Beans the Sack</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Butter the Firkin</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Butter the Load</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Butter the Barrel</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <pb n="4" facs="tcp:48228:4"/>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label" cols="4">
+                        <hi>Tolls.</hi>
+                     </cell>
+                     <cell role="label" cols="3">
+                        <hi>Whar. Cra.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>q.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>q.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Bacon the Side</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Brooms the Dozen</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Bruſhes the Dozen</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Braſs the Hundred</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Books the Cheſt</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Books the Bundle</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Brimſtone the Hogſhead</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Brimſtone the Puncheon</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Bells great, the Bell</cell>
+                     <cell>01</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>09</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Bowls or Wooden Ware the Load.</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Braziel the Hundred</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Braziel the Load</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Bark the Load</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Basket ware the Dozen</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Barrel Boards the Thouſand</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Bottles the Basket</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Birdlime the Barrel</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>C</head>
+                  <row>
+                     <cell>Charcoal the Load</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Currans the Butt</cell>
+                     <cell>00</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Currans the Curteel</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Currans the Role</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Cheſt Caſtle-Soap</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Copper the Sack</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Copper the Hundred</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Copper Pans the Pan</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Copperas the Hogſhead</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Copperas the Barrel</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Cheeſe the Hundred</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Cheeſe the Load</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <pb n="5" facs="tcp:48228:4"/>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label" cols="3">
+                        <hi>Tolls.</hi>
+                     </cell>
+                     <cell role="label" cols="3">
+                        <hi>Whar. Cra.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>q.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>q.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Cheeſe the Ton.</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Coals the Chaldron</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Coals Scotch the Ton</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Cloth the Pack</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Cloth the Truſs</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Cloth the Bundle</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Cider the Ton</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Cider the Hogſhead</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Chairs the parcel</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Calveskins the Dozen</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Candles the Barrel</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Candles the Basket</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Candlewick the Pack</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Clay for Tobacco Pipes the Tun</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Cloth the Horſe-pack</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Cheſt or Trunk with Goods</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Crabs the Quarter</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Cordage the Ton</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>D</head>
+                  <row>
+                     <cell>Deals the Hundred</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Deals large the Hundred</cell>
+                     <cell>09</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>04</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Deals ſhort and narrow the Hundred</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Deals very large the Hundred</cell>
+                     <cell>09</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>04</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Dry Wares the Barrel</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Dry Wares the Hogſhead</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Dry Wares the Punt</cell>
+                     <cell>02</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Dry Wares the Butt.</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Dry Wares the Fatt</cell>
+                     <cell>09</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>04</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Dry Wares the Basket</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Dry Wares the Sack</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <pb n="6" facs="tcp:48228:5"/>
+               <table>
+                  <head>E</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label" cols="3">
+                        <hi>Tolls.</hi>
+                     </cell>
+                     <cell role="label" cols="3">
+                        <hi>Whar. Cra.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>q.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>q.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Empty Cask the Ton</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Earthen Ware a Cheſt</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Earthen Ware the Basket</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Earthen Ware the Load</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Earthen Ware the Pannier</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Eels the Barrel</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Elm Boards the Load</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Elder-berries the Hogſhead</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>1</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>F</head>
+                  <row>
+                     <cell>Fir-poles or Balks the Load</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Fir Timber the load</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Fullers-Earth the Bag</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Fiſh the Basket and Hundred</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Fiſh the Barrel</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Fiſh the Hundred</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Fiſh the Basket with two ears</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Fiſh-Boats the Boat</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Flax the Bundle and Hundred</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Flax the Bundle 28 <hi>l.</hi>
+                     </cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Flax the Ton</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Flax the Bale a Thouſand</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Flax the Bag</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Fellys the Load</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Fellys great the Load</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Fellys middle and ſmall the 1000</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Fitch of Sugar</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Figs the Barrel</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Figs the Tapnol</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Fells or Sheepskins the Dozen</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Fruit the Burden four Buſhels</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <pb n="7" facs="tcp:48228:5"/>
+               <table>
+                  <head>G</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label" cols="3">
+                        <hi>Tolls.</hi>
+                     </cell>
+                     <cell role="label" cols="3">
+                        <hi>Whar. Cra.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell>
+                        <hi>d.</hi>
+                     </cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>
+                        <hi>q.</hi>
+                     </cell>
+                     <cell>
+                        <hi>d.</hi>
+                     </cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>
+                        <hi>q.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Glaſs the Caſe</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Glaſs the Cheſt</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Glaſs the Barrel</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Grindſtones the Chaldron</cell>
+                     <cell>08</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Grindſtones the Six foot</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Grindſtones the Four foot</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Ginger the Bag two Hundred</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Ginger the Box</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Ginger the Bag one Hundred</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Gauls the Bag</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Gum the Bag</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Graveſtones the Stone</cell>
+                     <cell>09</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>04</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Grain of all ſorts the Quarter inward</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Grain of all ſorts the Quarter out<g ref="char:EOLhyphen"/>ward</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Green Wood the Ton</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Gilt the Barrel</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>H</head>
+                  <row>
+                     <cell>Horns the Bag</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Hemp the Hundred</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Hemp the Ton</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Hemp the Bundle 200 weight</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Hemp the Great Bundle</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Herrings the Barrel</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Herrings the Cade</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Houſhold Goods the Load</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Hides the Score</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Hides the Dicker</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Hides Tann'd the Dicker</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Hides with Hair the Dicker</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Hops the Bag</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>1</cell>
+                  </row>
+                  <pb n="8" facs="tcp:48228:6"/>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label" cols="3">Tolls.</cell>
+                     <cell>Whar. Cra.</cell>
+                  </row>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell>
+                        <hi>d.</hi>
+                     </cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>
+                        <hi>q.</hi>
+                     </cell>
+                     <cell>
+                        <hi>d.</hi>
+                     </cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>
+                        <hi>q.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Hops the End</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Hops the Load</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Honey the Firkin</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Hair the Cart-load</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Hair the Great Sack</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Hoops flat, and broad, and white the Load</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Hoops ſmart the Load</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Hamper ſmall with Ware</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Hamper middle with Ware</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Hamper great with Ware</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>I</head>
+                  <row>
+                     <cell>Ink the Runlet</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Indico the Bag a Hundred</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Jugs the Doſen</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Looſe the Ton</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Ware the Basket</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Craned the Ton</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>In Bar the Ton</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Iron</cell>
+                     <cell>Ordnance the Ton</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Pots the Load</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Shot or Bullets the Ton</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Plates the Load</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Backs the Load</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>K</head>
+                  <row>
+                     <cell>Knaveſtocks the Load</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Kettles the Full</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Kelp the Ton</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>02</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <pb n="9" facs="tcp:48228:6"/>
+               <table>
+                  <head>L</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label" cols="4">
+                        <hi>Lolls.</hi>
+                     </cell>
+                     <cell role="label" cols="3">
+                        <hi>Whar. Cra.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>q.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>q.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Leather the Butt</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Leather the Dicker</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Lead the Ton</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Lead the Fother</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Lead the Roll</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Lead the Small Pig</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Lead the Great Pig</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Liquoriſh the Bag</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Lamp-black the Dozen</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Lime the Hundred</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Latten wrought the Hundred</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>M</head>
+                  <row>
+                     <cell>Moloſſes the Hogſhead</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Meal the half Quarter</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Mault the Score</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Mum the Barrel</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Mops the Doſen</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Madder the Bale</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Madder the Half Bale</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Madder the Bag ſmall</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Mats the Load of ſixty</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Maunds great with 4 Ears, of Fiſh or other Wares</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Maunds with two Ears —</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Milſtones Large, the Stone</cell>
+                     <cell>01</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>09</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Milſtones The Stone</cell>
+                     <cell>00</cell>
+                     <cell>09</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>04</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Muſſel-Boats the Boat</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Muſtard-ſeed the Quarter</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Meal the Load</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <pb n="10" facs="tcp:48228:7"/>
+               <table>
+                  <head>N</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label" cols="3">
+                        <hi>Tolls.</hi>
+                     </cell>
+                     <cell role="label" cols="3">
+                        <hi>Whar. Cra.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>q.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>q.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Nutmegs the Bag</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Nails the Bag</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Nails the Load</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Nails the Great Bag</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Nails the Ton</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Nails Roods the Doſen</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Nuts the Barrel</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Nuts the Quarter</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Nuts the Sack</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>O</head>
+                  <row>
+                     <cell>Oyl the Butt two thouſand</cell>
+                     <cell>09</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>04</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Oyl the Pipe</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Oyl the Hogſhead</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Oyl the Barrel</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Oyl the Punt</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Oyl the Ton</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Oyl the Great Runlet</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Oranges the Cheſt</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Oranges the Box</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Oad the Ton</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Oad houſed the Ton</cell>
+                     <cell>08</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Oaker the Ton</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Oter the Barrel</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Oyſters the Boat</cell>
+                     <cell>09</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>04</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Oyſters the Sack</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Oyſters the Barrel</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>P</head>
+                  <row>
+                     <cell>Paper the Load</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Paper the Bundle</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Paper the Load houſed</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <pb n="11" facs="tcp:48228:7"/>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label" cols="4">
+                        <hi>Tolls.</hi>
+                     </cell>
+                     <cell role="label" cols="3">
+                        <hi>Whar. Cra.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>q.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>q.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Paper the Load great</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Pots the Basket</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Pot-candy</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Pot-aſhes the Ton</cell>
+                     <cell>00</cell>
+                     <cell>09</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>04</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Pot-aſhes the houſed the Ton</cell>
+                     <cell>01</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>09</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Pitch the Barrel</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Perry or Cider the Ton</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Pikes or Staves the Load</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Prunes the Punt</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Prunes the Hogſhead</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Pelts the Load</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Peaſcods the Load</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Peaſcods the great Sack</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Peaſe white the Quarter</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Pole-davies the Piece</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Purbeck-ſtone the Load</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Pineck the Hogſhead</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Porters Burthens with Oyſters or ſuch like ſmall things</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Pulter the Hundred</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Powder the Barrel</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Pails the Doſen</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Pails the Load</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Q</head>
+                  <row>
+                     <cell>Quick-ſilver the Runlet</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Quernſtones the Stone ſmall</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Quernſtones the Stone middle</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Quernſtones the Great Size</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <pb n="12" facs="tcp:48228:8"/>
+               <table>
+                  <head>R</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label" cols="3">
+                        <hi>Tolls.</hi>
+                     </cell>
+                     <cell role="label" cols="3">
+                        <hi>Whar. Cra.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>q.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>q.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Rice the Bag three hundred</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Rugs the Load</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Rugs the Pack</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Rugs the Bundle</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Red Lead the Runlet</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Raiſins the Barrel</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Raiſins the Cheſt</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Raiſins the Piece</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Raiſins the Basket</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Raiſins the Frail</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Rubbers the Basket</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Roſin the Cake</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>S</head>
+                  <row>
+                     <cell>Stuffs the Truſs a Hundred</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Shomack the Bag two Hundred</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Skins the Doſen</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Sugar the Hogſhead</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Sugar the Barrel</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Sugar the Loaf a Hundred</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Sugar the Cheſt</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>02</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Soap the Half Barrel</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Soap the Firkin</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Soap-aſhes the Barrel</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Salt the Wey</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Salt the Sack</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Salt the Barrel</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Salt the Hogſhead</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Salt-peter the Load</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Salt-peter the Hogſhead</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Shovels a Doſen</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Shovels the Load</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <pb n="13" facs="tcp:48228:8"/>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label" cols="3">
+                        <hi>Tolls.</hi>
+                     </cell>
+                     <cell role="label" cols="3">
+                        <hi>Whar. Cra.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>q.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>q.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Shovels ſhod the Bundle</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Salmon the Barrel</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Steel the Faggot</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Steel the Barrel</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Steel the Firkin</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Sut the Load</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Starch the Barrel</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Sack-cloth the piece</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Starch the Kilderkin</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Paving &amp; Pitching Stones the Load</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Burford</hi> and <hi>Portland</hi> Stones the Load</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>T</head>
+                  <row>
+                     <cell>Timber a Load Craned</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Timber a Load not Craned</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Tin the Hundred</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Tin the Barrel</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Tin the Block</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Twigs the Score</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Trenchers the Pack</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Tallow the Hogſhead</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Tallow the Barrel</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Trees the Bundle</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Tow the Bag or Sack</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Tow the Tun</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>02</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Tar the Barrel</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Tiles paving the Load</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Tubs the Load</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>02</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <pb n="14" facs="tcp:48228:9"/>
+               <table>
+                  <head>V</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label" cols="3">
+                        <hi>Tolls.</hi>
+                     </cell>
+                     <cell role="label" cols="3">
+                        <hi>Whar. Cra.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>q.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>q.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Vermilion the Paper</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Vinegar the Ton</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Vinegar the Runlet</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Vinegar the Hogſhead</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Verjuyce the Hogſhead</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Verjuyce the Ton</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>W</head>
+                  <row>
+                     <cell>Whiting the Hogſhead</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Wine the Butt</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Wine the Hogſhead</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Wine the Tierce</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Wine the half Hogſhead</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Wine the Runlet</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Wine the Fatt 2000.</cell>
+                     <cell>00</cell>
+                     <cell>09</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>04</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Wine the Ton houſed</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>White Lead the Runlet</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Wool the Bag</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Wool the great Sack</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Wool the half Sack</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Wool the Pocket</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Wool the Horſe-Pack</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Wax the Hundred weight</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Walnuts the Sack</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Wooden ware the Pack</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Wares the Horſe-Pack of any ſort</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Woad the Sack</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Woad the Ton</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Wainſcot the Hundred</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <pb n="15" facs="tcp:48228:9"/>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label" cols="3">
+                        <hi>Tolls.</hi>
+                     </cell>
+                     <cell role="label" cols="3">
+                        <hi>Whar. Cra</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>q.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>q.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Walnuts the Barrel</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>ob.</hi>
+                     </cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Weld the Ton</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Y</head>
+                  <row>
+                     <cell>Yarn the Bundle</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+               </table>
+            </p>
+            <p>AND for ſeveral other Goods, as Bricks, Bavins, Billets, Hoſtry-Faggots, Hay, Rubbiſh, Straw, and Tiles, and all others not here mentioned, there ſhall be paid after the rate of 3 pence <hi>per</hi> Ton for Tolls, and one Peny <hi>per</hi> Ton Wharfage and Cranage.</p>
+            <closer>
+               <signed>Wagſtaffe.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
